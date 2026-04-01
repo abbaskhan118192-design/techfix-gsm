@@ -17,12 +17,12 @@ TechFix GSM is a comprehensive platform designed to provide solutions and servic
 
 ## Contact Information
 - **Email**: support@techfixgsm.com
-- **Phone**: +1 (555) 123-4567
-- **Address**: 123 Tech Lane, Repair City, TC 45678
+- **Phone**: +32 465765038
+- **Address**: kattestraat 63 9300 aalst belgium
 
 ## Hours of Operation
-- **Monday to Friday**: 9:00 AM - 5:00 PM
-- **Saturday**: 10:00 AM - 4:00 PM
+- **Monday to friday**: 10:00 AM - 18:00 PM
+- **Saturday**: 10:00 AM - 17:00 PM
 - **Sunday**: Closed
 
 ---
